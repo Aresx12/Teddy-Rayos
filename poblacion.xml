@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<poblacion_2019>
+   <pais nombre="Paraguay">
+      <hombres>3463751</hombres>
+      <mujeres>3580888</mujeres>
+   </pais>
+   
+   <pais nombre="Surinam">
+      <hombres>289108</hombres>
+      <mujeres>292255</mujeres>
+   </pais>
+   
+   <pais nombre="Guyana">
+      <hombres>389504</hombres>
+      <mujeres>393271</mujeres>
+   </pais>
+   
+   <pais nombre="Bolivia">
+      <hombres>5733491</hombres>
+      <mujeres>5779611</mujeres>
+   </pais>  
+   
+   <pais nombre="Ecuador">
+      <hombres>8683170</hombres>
+      <mujeres>8690487</mujeres>
+   </pais>  
+   
+   <pais nombre="Peru">
+      <hombres>16362221</hombres>
+      <mujeres>16148241</mujeres>
+   </pais>
+      <pais nombre="French Guiana">
+      <hombres>147057</hombres>
+      <mujeres>143766</mujeres>
+   </pais>
+   
+   <pais nombre="Chile">
+      <hombres>9610261</hombres>
+      <mujeres>9341774</mujeres>
+   </pais>
+   
+   <pais nombre="Venezuela">
+      <hombres>14470601</hombres>
+      <mujeres>14045228</mujeres>
+   </pais>
+   
+   <pais nombre="Brazil">
+      <hombres>107316359</hombres>
+      <mujeres>103733160</mujeres>
+   </pais>
+   
+   <pais nombre="Colombia">
+      <hombres>25626250</hombres>
+      <mujeres>24713193</mujeres>
+   </pais>
+
+   <pais nombre="Argentina">
+      <hombres>22939260</hombres>
+      <mujeres>21841415</mujeres>
+   </pais>
+
+   <pais nombre="Uruguay">
+      <hombres>1789842</hombres>
+      <mujeres>1671889</mujeres>
+   </pais>
+</poblacion_2019>
